@@ -6,6 +6,7 @@
 * The pattern is particularly useful for encapsulating private details and
 * exposing only necessary methods and functionalities.
 * Here’s an explanation of how the pattern is applied in this code:
+* Environment: Node.js v20+
 */
 
 class Car {
