@@ -14,12 +14,12 @@ class Car {
   #model;
  
   constructor(brand, model, callback) {
-      this.#brand = brand;
-      this.#model = model;
+    this.#brand = brand;
+    this.#model = model;
 
-      if (typeof callback === 'function') {
-        callback(this.#brand, this.#model);
-      }
+    if (typeof callback === 'function') {
+      callback(this.#brand, this.#model);
+    }
   }
 
   // Private method

@@ -4,7 +4,7 @@ Welcome to **Sandbox**! This repository serves as a collection of code samples a
 
 ## Overview
 
-The **Sandbox** project contains various coding examples derived from different courses and tutorials. Each example focuses on a specific concept, pattern, or best practice in software development. The goal is to provide a hands-on environment where you can learn by doing.
+The **Sandbox** project contains various coding examples derived from different courses and tutorials. Each example focuses on a specific concept, pattern, or best practice in software development. The goal is to provide a hands-on environment where you can learn by doing. The project was created for your own use, but it is not forbidden to use the code examples for someone else.
 
 ## Contents
 
