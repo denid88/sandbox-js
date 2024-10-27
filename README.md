@@ -11,7 +11,7 @@ The **Sandbox** project contains various coding examples derived from different 
 - **Design Patterns**: Examples of common design patterns such as Singleton, Factory, and Observer.
 - **Data Structures**: Implementations of fundamental data structures like lists, stacks, and queues.
 - **Algorithms**: Sample algorithms including sorting, searching, and recursion.
-- **Language-Specific Features**: Code snippets showcasing unique features of languages like JavaScript, Dart, Swift, etc...
+- **Language-Specific Features**: Code snippets showcasing unique features of JavaScript.
 - **Best Practices**: Demonstrations of coding best practices, including code readability, testing, and optimization.
 
 ## How to Use
