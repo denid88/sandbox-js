@@ -14,6 +14,10 @@ The **Sandbox** project contains various coding examples derived from different 
 - **Language-Specific Features**: Code snippets showcasing unique features of JavaScript.
 - **Best Practices**: Demonstrations of coding best practices, including code readability, testing, and optimization.
 
+## Courses
+
+- **How programming works**: https://github.com/HowProgrammingWorks
+
 ## How to Use
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
