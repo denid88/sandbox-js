@@ -2,6 +2,8 @@
 
 Welcome to **Sandbox**! This repository serves as a collection of code samples and exercises designed to help you practice and master popular programming techniques. Whether you're a beginner looking to solidify your understanding or an experienced developer brushing up on skills, this sandbox is the perfect place to experiment.
 
+The author of this repository uses it to practice and study materials from various courses created by other authors.
+
 ## Overview
 
 The **Sandbox** project contains various coding examples derived from different courses and tutorials. Each example focuses on a specific concept, pattern, or best practice in software development. The goal is to provide a hands-on environment where you can learn by doing. The project was created for your own use, but it is not forbidden to use the code examples for someone else.
