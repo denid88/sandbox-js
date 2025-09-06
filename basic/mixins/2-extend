@@ -1,0 +1,25 @@
+'use strict';
+
+const extend = (obj, mixin) => {
+  const keys = Object.keys(mixin);
+  for (const key of keys) {
+    obj[key] = mixin[key];
+  }
+  return obj;
+};
+
+// Usage:
+const obj1 = {
+  name: 'Marcus',
+  age: 32
+};
+
+const mix1 = {
+  sayHello() {
+    console.log(`${this.name} ${this.age}`) 
+  }
+}
+
+extend(obj1, mix1);
+
+obj1.sayHello();

@@ -1,0 +1,8 @@
+'use strict';
+const { log: ln } = Math;
+const pow = Math.pow;
+const sqrt = Math.sqrt;
+const log = (base, n) => ln(n) / ln(base);
+
+const exp = pow(5 * 8, 2) + ((sqrt(20) + 1) / log(2, 7));
+console.log(exp);
